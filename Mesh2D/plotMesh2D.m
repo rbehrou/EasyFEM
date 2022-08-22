@@ -27,6 +27,8 @@ end
 
 % set axis properties
 axis equal
+xlabel('x') 
+ylabel('y')
 hold off;
 
 end

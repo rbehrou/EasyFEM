@@ -9,7 +9,7 @@ function FeTopo = generateTopo2D(MeshParams)
 %                             in the domain, format: 2D: [XDir YDir]
 %
 %--------------------outputs:
-%                     FeTopo: FE elemental connectivity [size: (NumFeElems,2)]
+%                     FeTopo: FE elemental connectivity [size: (NumFeElems,4)]
 %
 %
 %% step-1: get the geometry information
